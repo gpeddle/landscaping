@@ -1,6 +1,6 @@
 # Domain model
 
-Landscaping Service domain model 
+Landscaping Service Domain Model 
 
 ## Summary
 
@@ -33,7 +33,7 @@ The major entities in the model are listed below. Each is an important concept i
 
 ## Minor Entities
 
-The following minor entities exist to support non-core parts of the busoiness domain.
+The following minor entities exist to support non-core parts of the business domain.
 
 1. Message
 

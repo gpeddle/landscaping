@@ -6,4 +6,5 @@ Example project using Domain Driven Design and modern web application architectu
 
 ## Domain Documentation
 
- [Domain Analysis](ddd/domain-analysis.md)
+- [Domain Analysis](ddd/domain-analysis.md)
+- [Domain Model](ddd/domain-model.md)
